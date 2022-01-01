@@ -1,2 +1,2 @@
 # parasbhalodia.github.io
-Personal portfolio of Paras Bhalodia
+Personal portfolio of Paras Bhalodia!
